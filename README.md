@@ -15,6 +15,6 @@ NYC Open Data portal provides details regarding filming data permits for various
 -	Zip Codes – First zip code of production activity
 -	Country of project origin – Domestic or International
 
-Several interesting insights can be gathered by effectively visualizing this data. Thanks to the proliferation of social media, people are always on the hunt for “Instagrammable” locations specially in a place like NYC. By visual analysis, we should be able to come up with interesting statistics which can be used for generating tourist attraction or help local residents anticipate chaos during peak time, the possibilities are endless. 
+Several interesting insights can be gathered by effectively visualizing this data. Thanks to the proliferation of social media, people are always on the hunt for “Instagrammable” locations especially in a place like NYC. By visual analysis, we should be able to come up with interesting statistics which can be used for generating tourist attraction or help local residents anticipate chaos during peak time, the possibilities are endless. 
 
 Note: The current data is continuously getting updated in the NYC Open Data Portal. This project refers to the data available as of June 2019.
